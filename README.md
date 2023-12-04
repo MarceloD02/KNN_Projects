@@ -6,7 +6,7 @@ Biomechanical Features of Orthopedic Patients
 
 In this project, we are provided with multiple instances of orthopedic parameters, and we are also provided with their classification as normal or abnormal.
 
-Section I: Accessing the Data
+**Section I **: Accessing the Data
 
 Make a Pandas DataFrame from the CSV.
 
@@ -16,8 +16,7 @@ What is the data about?
 
 What are we trying to predict here?
 
-**Section II**: 
-               Exploratory Data Analysis
+**Section II**: Exploratory Data Analysis
 
 Perform some descriptive statistics and make a note of your findings.
 
@@ -25,7 +24,7 @@ Plot appropriate graphs to understand the relationship between the variables.
 
 Point out any observations and comment on the strength of the relationships, if any.
 
-Section III: Prepare data for training!
+**Section III**: Prepare data for training!
 
 Make a new column symptom_class with the abnormal rows as 1 and the normal rows as 0, and drop the class column.
 
@@ -33,7 +32,7 @@ Split the entire dataset into independent features and symptoms as the response 
 
 Normalize the variables.
 
-Section IV: Training with KNN
+**Section IV**: Training with KNN
 
 Use train_test_split from sklearn and split the parameters and classes into train and test sets.
 
