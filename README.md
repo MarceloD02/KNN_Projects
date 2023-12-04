@@ -16,7 +16,8 @@ What is the data about?
 
 What are we trying to predict here?
 
-**Section II**: Exploratory Data Analysis
+**Section II**: 
+               Exploratory Data Analysis
 
 Perform some descriptive statistics and make a note of your findings.
 
