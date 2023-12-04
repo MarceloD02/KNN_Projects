@@ -6,7 +6,7 @@ Biomechanical Features of Orthopedic Patients
 
 In this project, we are provided with multiple instances of orthopedic parameters, and we are also provided with their classification as normal or abnormal.
 
-**Section I **: Accessing the Data
+**Section I ** : Accessing the Data
 
 Make a Pandas DataFrame from the CSV.
 
